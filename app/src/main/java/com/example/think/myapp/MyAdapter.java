@@ -61,6 +61,7 @@ import java.util.List;
             return convertView;
         }
 ///////
+        /////jjjjjj
 
     public  static HashMap<Integer,Boolean> getIsSelected() {
         return isSelected;
