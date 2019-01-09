@@ -60,7 +60,7 @@ import java.util.List;
             holder.cb.setChecked(isSelected.get(position));
             return convertView;
         }
-
+///////
 
     public  static HashMap<Integer,Boolean> getIsSelected() {
         return isSelected;
